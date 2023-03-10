@@ -88,6 +88,7 @@ b)fourteen
 3. Etter says that using simple sentences will capture the audience interest and using headers/numbered lists/bullet points break up the text and makes it easier to understand to the audience.
 
 ### Step 7: An animaated gif:
+https://github.com/AadityaGupta11/aadityagupta11.github.io/tree/main/Animated%20GIF
 
 ### Step 8: More Resources:
 1. Markdown Tutorial: https://www.markdowntutorial.com
@@ -114,27 +115,3 @@ To install and use Jekyll on the Github Pages:
 1. Firstly, install Jekyll on your personal system (device).
 2. Secondly, after installing, go to https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll to add Jekyll onto your Github pages.
 3. Thirdly, for more information, visit https://pages.github.com.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
