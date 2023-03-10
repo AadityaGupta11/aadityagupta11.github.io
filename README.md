@@ -87,7 +87,9 @@ b)fourteen
 2. Etter tells about how the visuals can represent and make the audience understand complex concepts and engages them more. For example: the gif resume.
 3. Etter says that using simple sentences will capture the audience interest and using headers/numbered lists/bullet points break up the text and makes it easier to understand to the audience.
 
-### Step 7: More Resources:
+### Step 7: An animaated gif:
+
+### Step 8: More Resources:
 1. Markdown Tutorial: https://www.markdowntutorial.com
 2. A link to Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=3J10TXX7RLEVW&keywords=modern+technical+writing+by+andrew+etter&qid=1678423423&sprefix=modern+technical+writing+by+andrew+etter%2Caps%2C156&sr=8-1
 3. Jekyll Template: https://jekyllrb.com
