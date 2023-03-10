@@ -82,36 +82,36 @@ b)fourteen
 3. Select Deploy from a branch under Source and select the main branch.
 4. Click on Save.
 
-### Step 6: Creating a file for Jekyll:
-1. Click on Add file, in the dropdown menu, Select Create new file.
-2. An empty filename and file editor box appears. For the file name, type in `_config.yml` and in the editor box, write the following:
-3. Click on Commit Changes when done.
+### Step 6: How the practical steps relate to the Etter's book:
+1. Etter suggests,"to use a simple style guide to maintain consistency across different documents and to use the same terminology style",.
+2. Etter tells about how the visuals can represent and make the audience understand complex concepts and engages them more. For example: the gif resume.
+3. Etter says that using simple sentences will capture the audience interest and using headers/numbered lists/bullet points break up the text and makes it easier to understand to the audience.
 
-### More Resources:
+### Step 7: More Resources:
 1. Markdown Tutorial: https://www.markdowntutorial.com
-2. A link to Etter's book: 
+2. A link to Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=3J10TXX7RLEVW&keywords=modern+technical+writing+by+andrew+etter&qid=1678423423&sprefix=modern+technical+writing+by+andrew+etter%2Caps%2C156&sr=8-1
 3. Jekyll Template: https://jekyllrb.com
-4. Github link to my resume:
+4. Link to my static site: 
 
 ## Authors and Acknowledgements:
 The guide was implemented by Aaditya Gupta. 
-Andrew Etter
+The author of the book, Modern Technical Writing by Andrew Etter.
 
 ## FAQs:
 1. Why is Markdown better than a word processor?
-Markdown is simple and fast. It is a lightweight text language with simple writing and editing. Markdown uses fewer formatting options and provides more accessibility to the user. Even with just the basic knowledge, anyone can create a perfectly formatted document. Markdown is less distracting, with almost no toolbar present, and the mouse clicks are also reduced so the user can keep their hands on the keyboard and have more productive and structured content writing. It provides a seamless experience with more control and less autocorrect.
+Markdown is simple and fast. It is a lightweight text language with simple writing and editing. Markdown uses fewer formatting options and provides more accessibility to the user. Markdown is less distracting, with almost no toolbar present, and the mouse clicks are also reduced so the user can keep their hands on the keyboard and be productive and have structured content writing. It provides a seamless experience with more control and less autocorrect features. According to Etter's book,"Technical writing should be tailored to the audience's needs and knowledge level", doesn't matteer the interface.
 
 2. Why is my resume not showing up?
 Usually, when files are dragged onto the GitHub page, they are instantly visible. However, if the user is working with a certain set of settings, then they will need to change it by going to the repository setting. Or worst case scenario, that the Github servers are down. Please wait for a few minutes and refresh the page, and it will appear.
 
-3. Can you add multiple files at once, including your resume, on the same repository?
-Yes, multiple files can be added to the same repository, including your resume. The user can add a specific document or a specific file, and they can also add a whole folder from their system. Just follow the instructions given above, and the file/folder will be added to the same repository.
+3. Can you add more than one file at once, including your resume, on the same repository?
+Yes, more than one file can be added to the same repository, including your resume. The user can add a specific document or a specific file, and they can also add a whole folder from their system. Just follow the instructions given above, and the file/folder will be added to the same repository.
 
 4. How to install Jekyll to the Github Pages?
 To install and use Jekyll on the Github Pages:
-Firstly, install Jekyll on your personal system (device).
-Secondly, after installing, go to https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll to add Jekyll onto your Github pages.
-Thirdly, for more information, visit https://pages.github.com.
+1. Firstly, install Jekyll on your personal system (device).
+2. Secondly, after installing, go to https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll to add Jekyll onto your Github pages.
+3. Thirdly, for more information, visit https://pages.github.com.
 
 
 
