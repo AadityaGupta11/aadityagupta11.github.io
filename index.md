@@ -52,4 +52,8 @@ Walmart (1000 Taylor Avenue), Winnipeg, MB
 - Selected by Manager to train new associates in company’s customer service methods and standards.
 
 ## Volunteer Work
-- Peer Educator Manager: Tutoring other students in specific subjects. Preparing
+- Peer Educator Manager: Tutoring other students in specific subjects. Preparing for the subject beforehand, to teach them clearly and properly.
+- Peer Adviser Leader: Advising students in their respective fields. Giving them more knowledge about their field and its requirements, guiding them the right way.
+- Head of Student Council: Coordinated and prepared for the events like game night, trip to human rights museum etc. Managed of other volunteers, guided them to plan and execute properly.
+- Student Orientation Leader, UofM.
+
